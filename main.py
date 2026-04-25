@@ -5,7 +5,7 @@ import aiohttp
 
 from astrbot.api import AstrBotConfig,logger
 
-@register("video_plugin", "anlan", "astrbot_plugin_video", "1.0.0", "https://github.com/01Anlan/astrbot_plugin_video")
+@register("video_plugin", "anlan", "astrbot_plugin_video", "1.3.0", "https://github.com/01Anlan/astrbot_plugin_video")
 class DwoVideoPlugin(Star):
     def __init__(self, context: Context, config: AstrBotConfig):
         super().__init__(context)
