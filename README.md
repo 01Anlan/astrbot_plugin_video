@@ -7,4 +7,4 @@ astrbot小姐姐视频插件
 >
 > 目前API接口已要求要`API_CKEY`
 
-![展示圖](Docs/Preview.png)
+![展示图](Docs/Preview.png)
