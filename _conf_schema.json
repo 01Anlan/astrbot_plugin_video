@@ -1,0 +1,14 @@
+{
+  "ckey": {
+    "description": "API CKey",
+    "type": "string",
+    "hint": "zhcnli 接口 ckey",
+    "obvious_hint": true
+  },
+   "debug_mode": {
+    "description": "Debug Mode",
+    "type": "bool",
+    "hint": "是否开启调试模式"
+  }
+  
+}
